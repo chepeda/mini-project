@@ -1,0 +1,4 @@
+Development Training R²: 0.985436
+5-Fold CV R²: 0.98089
+Independent Test R²: 0.981549
+Training / Test R² Gap: 0.003886
